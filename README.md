@@ -1,0 +1,1 @@
+Node.js, Express ve Socket.io teknolojilerini kullanarak oluşturduğum bir sohbet uygulaması projesi. Tarafların birbirleriyle online olarak yazışabilecekleri, odalar oluşturabilecekleri ve odaya özel sohbetler yapabilecekleri bir uygulama oluşturdum.
